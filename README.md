@@ -1,4 +1,4 @@
 #### Hi there,
 
-- :dart: I’m currently learning more about Angular itself 
+- :dart: Currently, learning more about Angular & Webflow.
 
